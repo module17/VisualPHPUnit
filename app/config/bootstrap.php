@@ -96,5 +96,3 @@ foreach ( $config['bootstraps'] as $bootstrap ) {
 }
 
 \app\lib\Library::store($config);
-
-?>
